@@ -1,1 +1,1 @@
-# petroleum_ml
+# ML applications in petroleum engineering
